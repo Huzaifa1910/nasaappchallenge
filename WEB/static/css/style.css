@@ -1,0 +1,14 @@
+.summary{
+    /* width: 200px; */
+    height: 200px;
+    border: 0.5px solid grey;
+    border-radius: 5px;
+}
+#summarized{
+    font-size: 32px;
+}
+.ma{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
